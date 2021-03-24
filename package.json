@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest /tests/caesar-cipher.test.js"
+    "test": "jest /tests/arrayAnalysis.test.js"
   },
   "author": "",
   "license": "ISC",
